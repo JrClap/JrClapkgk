@@ -63,3 +63,4 @@ Junior Data Analyst
 Крошечный (micro):  
 [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/JrClap)] 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
